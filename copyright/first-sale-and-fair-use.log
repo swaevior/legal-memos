@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 MAY 2018 22:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 MAY 2018 22:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -226,6 +226,8 @@ File: omsppl.fd
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 29.
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no “ in font pplr7t!
@@ -233,13 +235,16 @@ Missing character: There is no “ in font pplr7t!
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./hand2
 paw.png>]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 41.
+
 [2] (./first-sale-and-fair-use.aux) ) 
 Here is how much of TeX's memory you used:
- 2079 strings out of 492995
- 30394 string characters out of 6132704
- 97219 words of memory out of 5000000
- 5619 multiletter control sequences out of 15000+600000
- 7353 words of font info for 22 fonts, out of 8000000 for 9000
+ 2088 strings out of 492995
+ 30504 string characters out of 6132704
+ 97226 words of memory out of 5000000
+ 5626 multiletter control sequences out of 15000+600000
+ 10185 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,6n,31p,558b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/
@@ -248,7 +253,7 @@ sfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palati
 no/uplb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr
 8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb
 >
-Output written on first-sale-and-fair-use.pdf (2 pages, 61179 bytes).
+Output written on first-sale-and-fair-use.pdf (2 pages, 70437 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream

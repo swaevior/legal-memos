@@ -75,6 +75,8 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsppl.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsppl.fd
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -82,6 +84,12 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT first-sale-and-fair-use.aux
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
