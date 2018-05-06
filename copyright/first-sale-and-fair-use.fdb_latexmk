@@ -1,5 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1525487352 "first-sale-and-fair-use.tex" "first-sale-and-fair-use.pdf" "first-sale-and-fair-use" 1525487353
+["bibtex first-sale-and-fair-use"] 1525574920 "first-sale-and-fair-use.aux" "first-sale-and-fair-use.bbl" "first-sale-and-fair-use" 1525574920
+  "/usr/local/texlive/2017/texmf-dist/bibtex/bst/base/plain.bst" 1480098433 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
+  "bib.bib" 1525574916 2520 d2b44aa310d7eedff934155b0ace9125 ""
+  "first-sale-and-fair-use.aux" 1525574919 105 7af62b873639d266dd6fdd26d19a3b91 ""
+  (generated)
+  "first-sale-and-fair-use.blg"
+  "first-sale-and-fair-use.bbl"
+["pdflatex"] 1525574918 "first-sale-and-fair-use.tex" "first-sale-and-fair-use.pdf" "first-sale-and-fair-use" 1525574918
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1480098688 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -49,11 +56,12 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "first-sale-and-fair-use.aux" 1525487353 870 959a31f0eaaace3de1bcb4eeb8431c6b ""
-  "first-sale-and-fair-use.tex" 1525487352 3641 eff96b5e43ba7809dc98c159374793c8 ""
+  "first-sale-and-fair-use.aux" 1525573399 216 b1a8ebf9e638188e210246a72c1eddee ""
+  "first-sale-and-fair-use.bbl" 1525573397 0 d41d8cd98f00b204e9800998ecf8427e "bibtex first-sale-and-fair-use"
+  "first-sale-and-fair-use.tex" 1525574918 6483 30ad19e04224b0019f377fd4df717507 ""
   "hand2paw.png" 1525479762 8053 6c049ba4e13777f8743742b67cc8de86 ""
   "texMemo.cls" 1525479762 1968 086ab0b2fa8c033a24bf9ed4d3aa911a ""
   (generated)
+  "first-sale-and-fair-use.log"
   "first-sale-and-fair-use.aux"
   "first-sale-and-fair-use.pdf"
-  "first-sale-and-fair-use.log"
