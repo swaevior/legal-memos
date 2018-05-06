@@ -1,6 +1,22 @@
 \documentclass[letterpaper,11pt]{texMemo}
 \usepackage{graphicx}
+\usepackage[hyphens]{url}
 \usepackage{hyperref}
+  \hypersetup{backref=true,
+         pagebackref=true,
+         hyperindex=true,
+         colorlinks=true,
+         breaklinks=true,
+         urlcolor= blue,
+         linkcolor= blue,
+         bookmarks=true,
+         bookmarksopen=false,
+         citecolor=black,
+         linkcolor=black,
+         filecolor=black,
+         citecolor=blue,
+         linkbordercolor=blue
+}
 \usepackage{tabularx}
 
 
@@ -12,7 +28,7 @@
 
 \begin{document}
 \maketitle
-\bibliographystyle{plain}
+\bibliographystyle{unsrt}
 
   Reference is to a hypothetical situation in which a 501(3)c non-for-profit coroporation seeks information as to whether or not it may procure MLB, NFL, or other major sporting organization-branded material and make, manufacture, distrubute, or sell derivtative works or goods using the licesned, copyrighted, or trademarked material as raw stock for its goods. This memorandum seeks to provide information, for educational purposes only, regarding the legal issues pertaining to such acitivities.
 
@@ -108,7 +124,9 @@
 
 \section*{Disclaimer; Limitation of Liability}
 \emph{It should be noted that the author is not an attorney and this document is a research product. Nothing contained herein may to be construed as legal advice or a legal opinion. The author cannot guarantee that this work is free from errors and therefore cannot be held liable for any damages, lost profits, or increased operating expenses resulting from any action taken, or not taken, on the basis of the contents of this memorandum.}
-
+\begingroup
+\raggedright
 \bibliography{bib.bib}
+\endgroup
 
 \end{document}

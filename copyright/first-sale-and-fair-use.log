@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 MAY 2018 01:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 MAY 2018 01:28
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/swaevior/Desktop/legal-memos/copyright/first-sale-and-fair-use.tex
-(/Users/swaevior/Desktop/legal-memos/copyright/first-sale-and-fair-use.tex
+**first-sale-and-fair-use.tex
+(./first-sale-and-fair-use.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./texMemo.cls
@@ -89,6 +90,10 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
 
@@ -161,11 +166,6 @@ Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
 \c@Hy@tempcnt=\count94
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
 LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen114
 \Fld@menulength=\count95
@@ -199,6 +199,40 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
+
+Package hyperref Warning: Option `backref' has already been used,
+(hyperref)                setting the option has no effect on input line 19.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 19.
+
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 19.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 19.
+Package hyperref Info: Option `breaklinks' set `true' on input line 19.
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 19.
+
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 19.
+
+./first-sale-and-fair-use.tex:19: Package hyperref Error: This color specificat
+ion is not supported
+(hyperref)                without package `xcolor' in
+(hyperref)                `linkbordercolor=blue'.
+
+See the hyperref package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 }
+      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 
@@ -221,21 +255,21 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 (./first-sale-and-fair-use.aux)
 \openout1 = `first-sale-and-fair-use.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 29.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
@@ -305,7 +339,16 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box27
-Package hyperref Info: Link coloring OFF on input line 13.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 29.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -315,9 +358,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count108
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
 
 (./first-sale-and-fair-use.out) (./first-sale-and-fair-use.out)
 \@outlinefile=\write3
@@ -327,28 +370,28 @@ LaTeX Info: Redefining \nameref on input line 13.
 <hand2paw.png, id=4, 60.225pt x 60.225pt>
 File: hand2paw.png Graphic file (type png)
  <use hand2paw.png>
-Package pdftex.def Info: hand2paw.png used on input line 15.
+Package pdftex.def Info: hand2paw.png used on input line 31.
 (pdftex.def)             Requested size: 117.43875pt x 117.4502pt.
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 15--15
+Overfull \hbox (17.0pt too wide) in paragraph at lines 31--31
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
 
  []
 
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 15.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 24.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 31.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 40.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 32.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 48.
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./hand2
@@ -356,12 +399,12 @@ paw.png>]
 Missing character: There is no Â in font pplr7t!
 Missing character: There is no § in font pplr7t!
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 42.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 58.
 Missing character: There is no Â in font pplr7t!
 Missing character: There is no § in font pplr7t!
 
 [2]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 60.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 76.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
@@ -369,17 +412,82 @@ Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no ” in font pplr7t!
  [3]
-[4] (./first-sale-and-fair-use.bbl
-! Undefined control sequence.
-l.7 17 us code \Â
-                 § 106 - exlcusive rights in copyrighted works. 
+(./first-sale-and-fair-use.bbl [4]
+Missing character: There is no Â in font pplr7t!
+Missing character: There is no § in font pplr7t!
+
+./first-sale-and-fair-use.bbl:31: Missing $ inserted.
+<inserted text> 
+                $
+l.31 ...ecourt.gov/opinions/12pdf/11-697_4g15.pdf}
+                                                  ,
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./first-sale-and-fair-use.bbl:31: Missing $ inserted.
+<inserted text> 
+                $
+l.31 ...ecourt.gov/opinions/12pdf/11-697_4g15.pdf}
+                                                  ,
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./first-sale-and-fair-use.bbl:57: Missing $ inserted.
+<inserted text> 
+                $
+l.57 ...due.edu/uco/CopyrightBasics/fair_use.html}
+                                                  .
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./first-sale-and-fair-use.bbl:57: Missing $ inserted.
+<inserted text> 
+                $
+l.57 ...due.edu/uco/CopyrightBasics/fair_use.html}
+                                                  .
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 132.
+ [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 132.
+ (./first-sale-and-fair-use.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 132.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 132.
+Package rerunfilecheck Info: File `first-sale-and-fair-use.out' has not changed
+.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
+ ) 
 Here is how much of TeX's memory you used:
- 5804 strings out of 492995
- 86711 string characters out of 6132704
- 184489 words of memory out of 5000000
- 9275 multiletter control sequences out of 15000+600000
+ 5851 strings out of 492995
+ 87371 string characters out of 6132704
+ 185398 words of memory out of 5000000
+ 9314 multiletter control sequences out of 15000+600000
  12882 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,9n,31p,848b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,10n,31p,802b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf
+-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2017/texmf-dist/f
+onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
+Output written on first-sale-and-fair-use.pdf (5 pages, 126565 bytes).
+PDF statistics:
+ 121 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!
