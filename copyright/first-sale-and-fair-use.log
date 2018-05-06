@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 MAY 2018 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 MAY 2018 00:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -342,6 +342,9 @@ Missing character: There is no Â in font pplr7t!
 Missing character: There is no § in font pplr7t!
 
 
+LaTeX Warning: Citation `17usc109' on page 2 undefined on input line 36.
+
+
 LaTeX Warning: Citation `crm1854' on page 2 undefined on input line 36.
 
 
@@ -367,9 +370,6 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 
 LaTeX Warning: Citation `licensedsports' on page 3 undefined on input line 63.
-
-
-LaTeX Warning: Citation `17usc106' on page 3 undefined on input line 66.
 
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
