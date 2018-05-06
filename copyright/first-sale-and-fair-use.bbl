@@ -1,38 +1,56 @@
 \begin{thebibliography}{1}
 
+\bibitem{purdue}
+
+
 \bibitem{17usc106}
 17 us code \§ 106 - exlcusive rights in copyrighted works.
-\newblock https://www.law.cornell.edu/uscode/text/17/106.
+\newblock
+  \href{https://www.law.cornell.edu/uscode/text/17/106}{https://www.law.cornell.edu/uscode/text/17/106}.
 
 \bibitem{17usc109}
 17 us code \§ 109 - limitations on exclusive rights: Effect of transfer of
   particular copy or phonorecord.
-\newblock https://www.law.cornell.edu/uscode/text/17/109.
+\newblock
+  \href{https://www.law.cornell.edu/uscode/text/17/109}{https://www.law.cornell.edu/uscode/text/17/109}.
+
+\bibitem{crm1854}
+United states department of justice criminal resource manual § 1854 copyright
+  infringement -- first sale doctrine.
+\newblock
+  \href{https://www.justice.gov/usam/criminal-resource-manual-1854-copyright-infringement-first-sale-doctrine}{https://www.justice.gov/usam/criminal-resource-manual-1854-copyright-infringement-first-sale-doctrine}.
+
+\bibitem{kirtsaeng2016}
+Kirtsaeng v. john wiley \& sons, inc., 568 u.s. 519 (2013).
+\newblock
+  \href{https://www.supremecourt.gov/opinions/12pdf/11-697_4g15.pdf}{https://www.supremecourt.gov/opinions/12pdf/11-697_4g15.pdf},
+  2013.
 
 \bibitem{carnes}
 David Carnes.
 \newblock The right to sell copyrighted material.
-\newblock http://info.legalzoom.com/right-sell-copyrighted-material-22476.html.
-
-\bibitem{crm1854}
-
-
-\bibitem{kirtsaeng2016}
-2013.
+\newblock
+  \href{http://info.legalzoom.com/right-sell-copyrighted-material-22476.html}{http://info.legalzoom.com/right-sell-copyrighted-material-22476.html}.
 
 \bibitem{ownersrights}
 Owner's~Rights Initiative.
-\newblock Our issues, 2017.
+\newblock Our issues.
+\newblock
+  \href{http://www.ownersrightsinitiative.org/background/}{http://www.ownersrightsinitiative.org/background/},
+  2017.
 
 \bibitem{saracino}
 Adria Saracino.
 \newblock How to not break the law while marketing.
+\newblock
+  \href{https://blog.kissmetrics.com/break-the-law-marketing/}{https://blog.kissmetrics.com/break-the-law-marketing/}.
 
 \bibitem{licensedsports}
 Scott Silcox.
 \newblock Does a retailer need an nfl (or mlb or nba or nhl or ncaa) license to
   sell licensed sports products from my bricks and mortar store and/or over the
   internet?
-\newblock https://www.lib.purdue.edu/uco/CopyrightBasics/fair_use.html.
+\newblock
+  \href{http://licensedsports.blogspot.com/2012/03/does-retailer-need-nfl-or-mlb-or-nba-or.html}{http://licensedsports.blogspot.com/2012/03/does-retailer-need-nfl-or-mlb-or-nba-or.html}.
 
 \end{thebibliography}
