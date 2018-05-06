@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 MAY 2018 23:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 MAY 2018 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -330,22 +330,44 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 32.
- [1
+
+
+LaTeX Warning: Citation `carnes' on page 1 undefined on input line 33.
+
+[1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./hand2
 paw.png>]
 Missing character: There is no Â in font pplr7t!
 Missing character: There is no § in font pplr7t!
+
+
+LaTeX Warning: Citation `crm1854' on page 2 undefined on input line 36.
+
+
+LaTeX Warning: Citation `ownersrights' on page 2 undefined on input line 40.
+
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 42.
 Missing character: There is no Â in font pplr7t!
 Missing character: There is no § in font pplr7t!
 
+LaTeX Warning: Citation `kirtsaeng2016' on page 2 undefined on input line 47.
+
+
+LaTeX Warning: Citation `ownersrights' on page 2 undefined on input line 50.
+
 [2]
+
+LaTeX Warning: Citation `licensedsports' on page 3 undefined on input line 56.
+
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 60.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
+
+LaTeX Warning: Citation `licensedsports' on page 3 undefined on input line 63.
+
 
 LaTeX Warning: Citation `17usc106' on page 3 undefined on input line 66.
 
@@ -358,14 +380,14 @@ LaTeX Warning: Citation `saracino' on page 3 undefined on input line 66.
 [3] (./first-sale-and-fair-use.bbl
 ! Undefined control sequence.
 l.4 17 us code \Â
-                 § 109 - limitations on exclusive rights: Effect of transfer of
- 
+                 § 106 - exlcusive rights in copyrighted works. 
 Here is how much of TeX's memory you used:
- 5689 strings out of 492995
- 85303 string characters out of 6132704
- 177628 words of memory out of 5000000
+ 5684 strings out of 492995
+ 85226 string characters out of 6132704
+ 177466 words of memory out of 5000000
  9178 multiletter control sequences out of 15000+600000
  10700 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,6n,31p,848b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+
 !  ==> Fatal error occurred, no output PDF file produced!

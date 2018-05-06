@@ -7,6 +7,8 @@ Warning--entry type for "kirtsaeng2016" isn't style-file defined
 --line 1 of file bib.bib.bib
 Warning--entry type for "17usc109" isn't style-file defined
 --line 9 of file bib.bib.bib
+Warning--entry type for "17usc106" isn't style-file defined
+--line 14 of file bib.bib.bib
 Warning--entry type for "crm1854" isn't style-file defined
 --line 19 of file bib.bib.bib
 I was expecting a `,' or a `}'---line 65 of file bib.bib.bib
@@ -15,46 +17,47 @@ I was expecting a `,' or a `}'---line 65 of file bib.bib.bib
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--to sort, need author or key in 17usc109
+Warning--to sort, need author or key in 17usc106
 Warning--all relevant fields are empty in crm1854
-You've used 6 entries,
+You've used 8 entries,
             2118 wiz_defined-function locations,
-            517 strings with 4683 characters,
-and the built_in function-call counts, 1068 in all, are:
-= -- 89
-> -- 24
+            523 strings with 4857 characters,
+and the built_in function-call counts, 1420 in all, are:
+= -- 120
+> -- 32
 < -- 0
-+ -- 13
-- -- 6
-* -- 32
-:= -- 151
-add.period$ -- 12
-call.type$ -- 6
-change.case$ -- 21
++ -- 17
+- -- 8
+* -- 42
+:= -- 199
+add.period$ -- 16
+call.type$ -- 8
+change.case$ -- 28
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 42
-empty$ -- 136
-format.name$ -- 6
-if$ -- 243
+cite$ -- 11
+duplicate$ -- 56
+empty$ -- 181
+format.name$ -- 8
+if$ -- 325
 int.to.chr$ -- 0
-int.to.str$ -- 6
+int.to.str$ -- 8
 missing$ -- 0
-newline$ -- 27
-num.names$ -- 6
-pop$ -- 49
+newline$ -- 35
+num.names$ -- 8
+pop$ -- 65
 preamble$ -- 1
-purify$ -- 17
+purify$ -- 22
 quote$ -- 0
-skip$ -- 53
+skip$ -- 71
 stack$ -- 0
-substring$ -- 31
-swap$ -- 6
+substring$ -- 41
+swap$ -- 8
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 24
-warning$ -- 2
-while$ -- 6
-width$ -- 7
-write$ -- 44
+type$ -- 32
+warning$ -- 3
+while$ -- 8
+width$ -- 9
+write$ -- 58
 (There was 1 error message)
