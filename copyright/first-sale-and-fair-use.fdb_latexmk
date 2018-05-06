@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex first-sale-and-fair-use"] 1525579903 "first-sale-and-fair-use.aux" "first-sale-and-fair-use.bbl" "first-sale-and-fair-use" 1525579903
+["bibtex first-sale-and-fair-use"] 1525581926 "first-sale-and-fair-use.aux" "first-sale-and-fair-use.bbl" "first-sale-and-fair-use" 1525582216
   "/usr/local/texlive/2017/texmf-dist/bibtex/bst/base/plain.bst" 1480098433 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "bib.bib" 1525578437 2924 1a6a2436a5372c9180f09cc0b1a2ea73 ""
-  "first-sale-and-fair-use.aux" 1525579161 941 17fd40c614ea4460f89d71ba83a19902 ""
+  "bib.bib" 1525579907 2924 1a6a2436a5372c9180f09cc0b1a2ea73 ""
+  "first-sale-and-fair-use.aux" 1525582178 1282 dda73214e36e0192c8a00f5e406a3ac5 ""
   (generated)
   "first-sale-and-fair-use.bbl"
   "first-sale-and-fair-use.blg"
-["pdflatex"] 1525577630 "first-sale-and-fair-use.tex" "first-sale-and-fair-use.pdf" "first-sale-and-fair-use" 1525577630
+["pdflatex"] 1525582178 "first-sale-and-fair-use.tex" "first-sale-and-fair-use.pdf" "first-sale-and-fair-use" 1525582216
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1480098688 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -71,19 +71,21 @@
   "/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd" 1480098837 985 1ed784d7bfe47179f3550d2303b073f8 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ppl.fd" 1480098837 961 06b773644d960aac68add40fcb596208 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/palatino.sty" 1480098837 872 1f85454596839f6c8d6101e1dc7e1871 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty" 1485129666 12396 d41f82b039f900e95f351e54ae740f31 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/tools/tabularx.sty" 1480098841 7141 64e8a94c3d083215654cd9a5b9dcc136 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty" 1480098842 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "first-sale-and-fair-use.aux" 1525577576 997 e1cca83895df9f513cc91ed5569f4f08 ""
-  "first-sale-and-fair-use.bbl" 1525577464 816 81aad92113e461607b32688b6ee011f0 "bibtex first-sale-and-fair-use"
-  "first-sale-and-fair-use.out" 1525577576 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "first-sale-and-fair-use.tex" 1525577630 8222 cf0651ec5e4b12424b3d56902370daf2 ""
+  "first-sale-and-fair-use.aux" 1525582178 1282 dda73214e36e0192c8a00f5e406a3ac5 ""
+  "first-sale-and-fair-use.bbl" 1525581927 1040 141a5bce5d267d64da3de7d8efb8bc27 "bibtex first-sale-and-fair-use"
+  "first-sale-and-fair-use.out" 1525582178 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "first-sale-and-fair-use.tex" 1525582216 11573 7fa0763b97443c4d443130617056e2c2 ""
   "hand2paw.png" 1525479762 8053 6c049ba4e13777f8743742b67cc8de86 ""
   "texMemo.cls" 1525479762 1968 086ab0b2fa8c033a24bf9ed4d3aa911a ""
   (generated)
-  "first-sale-and-fair-use.log"
   "first-sale-and-fair-use.pdf"
-  "first-sale-and-fair-use.out"
   "first-sale-and-fair-use.aux"
+  "first-sale-and-fair-use.out"
+  "first-sale-and-fair-use.log"

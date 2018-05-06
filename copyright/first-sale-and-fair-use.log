@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 MAY 2018 00:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  6 MAY 2018 00:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -199,6 +199,25 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen117
+\extrarowheight=\dimen118
+\NC@list=\toks16
+\extratabsurround=\skip44
+\backup@length=\skip45
+)
+\TX@col@width=\dimen119
+\TX@old@table=\dimen120
+\TX@old@col=\dimen121
+\TX@target=\dimen122
+\TX@delta=\dimen123
+\TX@cols=\count101
+\TX@ftn=\toks17
+)
 (./first-sale-and-fair-use.aux)
 \openout1 = `first-sale-and-fair-use.aux'.
 
@@ -257,17 +276,17 @@ File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count101
-\scratchdimen=\dimen117
+\scratchcounter=\count102
+\scratchdimen=\dimen124
 \scratchbox=\box26
-\nofMPsegments=\count102
-\nofMParguments=\count103
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count104
-\MPscratchDim=\dimen118
-\MPnumerator=\count105
-\makeMPintoPDFobject=\count106
-\everyMPtoPDFconversion=\toks17
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen125
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks19
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -294,7 +313,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count107
+\c@section@level=\count108
 )
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
@@ -330,64 +349,37 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 32.
-
-
-LaTeX Warning: Citation `carnes' on page 1 undefined on input line 33.
-
-[1
+ [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./hand2
 paw.png>]
 Missing character: There is no Â in font pplr7t!
 Missing character: There is no § in font pplr7t!
-
-
-LaTeX Warning: Citation `17usc109' on page 2 undefined on input line 36.
-
-
-LaTeX Warning: Citation `crm1854' on page 2 undefined on input line 36.
-
-
-LaTeX Warning: Citation `ownersrights' on page 2 undefined on input line 40.
-
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 42.
 Missing character: There is no Â in font pplr7t!
 Missing character: There is no § in font pplr7t!
 
-LaTeX Warning: Citation `kirtsaeng2016' on page 2 undefined on input line 47.
-
-
-LaTeX Warning: Citation `ownersrights' on page 2 undefined on input line 50.
-
 [2]
-
-LaTeX Warning: Citation `licensedsports' on page 3 undefined on input line 56.
-
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 60.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-
-LaTeX Warning: Citation `licensedsports' on page 3 undefined on input line 63.
-
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no ” in font pplr7t!
-
-LaTeX Warning: Citation `saracino' on page 3 undefined on input line 66.
-
-[3] (./first-sale-and-fair-use.bbl
+ [3]
+[4] (./first-sale-and-fair-use.bbl
 ! Undefined control sequence.
 l.4 17 us code \Â
                  § 106 - exlcusive rights in copyrighted works. 
 Here is how much of TeX's memory you used:
- 5684 strings out of 492995
- 85226 string characters out of 6132704
- 177466 words of memory out of 5000000
- 9178 multiletter control sequences out of 15000+600000
- 10700 words of font info for 30 fonts, out of 8000000 for 9000
+ 5802 strings out of 492995
+ 86692 string characters out of 6132704
+ 184451 words of memory out of 5000000
+ 9274 multiletter control sequences out of 15000+600000
+ 12882 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,31p,848b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,9n,31p,848b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
