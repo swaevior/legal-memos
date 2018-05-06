@@ -8,24 +8,30 @@ Warning--entry type for "kirtsaeng2016" isn't style-file defined
 Warning--entry type for "17usc109" isn't style-file defined
 --line 9 of file bib.bib.bib
 Warning--entry type for "crm1854" isn't style-file defined
---line 16 of file bib.bib.bib
+--line 19 of file bib.bib.bib
+I was expecting a `,' or a `}'---line 65 of file bib.bib.bib
+ :     
+ :     author    = {Purdue University Copyright Office},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in 17usc109
 Warning--all relevant fields are empty in crm1854
 You've used 6 entries,
             2118 wiz_defined-function locations,
-            518 strings with 4704 characters,
-and the built_in function-call counts, 1067 in all, are:
+            517 strings with 4683 characters,
+and the built_in function-call counts, 1068 in all, are:
 = -- 89
 > -- 24
 < -- 0
 + -- 13
 - -- 6
-* -- 31
+* -- 32
 := -- 151
 add.period$ -- 12
 call.type$ -- 6
-change.case$ -- 22
+change.case$ -- 21
 chr.to.int$ -- 0
-cite$ -- 7
+cite$ -- 8
 duplicate$ -- 42
 empty$ -- 136
 format.name$ -- 6
@@ -35,11 +41,11 @@ int.to.str$ -- 6
 missing$ -- 0
 newline$ -- 27
 num.names$ -- 6
-pop$ -- 48
+pop$ -- 49
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 17
 quote$ -- 0
-skip$ -- 54
+skip$ -- 53
 stack$ -- 0
 substring$ -- 31
 swap$ -- 6
@@ -47,8 +53,8 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 24
-warning$ -- 1
+warning$ -- 2
 while$ -- 6
 width$ -- 7
 write$ -- 44
-(There were 4 warnings)
+(There was 1 error message)

@@ -1,11 +1,11 @@
 # Fdb version 3
-["bibtex first-sale-and-fair-use"] 1525577464 "first-sale-and-fair-use.aux" "first-sale-and-fair-use.bbl" "first-sale-and-fair-use" 1525577630
+["bibtex first-sale-and-fair-use"] 1525578691 "first-sale-and-fair-use.aux" "first-sale-and-fair-use.bbl" "first-sale-and-fair-use" 1525578691
   "/usr/local/texlive/2017/texmf-dist/bibtex/bst/base/plain.bst" 1480098433 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "bib.bib" 1525576579 2835 ba668cf5420036421a6db83f3529cfff ""
-  "first-sale-and-fair-use.aux" 1525577576 997 e1cca83895df9f513cc91ed5569f4f08 ""
+  "bib.bib" 1525578437 2924 1a6a2436a5372c9180f09cc0b1a2ea73 ""
+  "first-sale-and-fair-use.aux" 1525577631 997 e1cca83895df9f513cc91ed5569f4f08 ""
   (generated)
-  "first-sale-and-fair-use.blg"
   "first-sale-and-fair-use.bbl"
+  "first-sale-and-fair-use.blg"
 ["pdflatex"] 1525577630 "first-sale-and-fair-use.tex" "first-sale-and-fair-use.pdf" "first-sale-and-fair-use" 1525577630
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -85,5 +85,5 @@
   (generated)
   "first-sale-and-fair-use.out"
   "first-sale-and-fair-use.pdf"
-  "first-sale-and-fair-use.aux"
   "first-sale-and-fair-use.log"
+  "first-sale-and-fair-use.aux"
